@@ -1,0 +1,12 @@
+streamlit
+streamlit-folium
+folium
+osmnx
+networkx
+rasterio
+shapely
+numpy
+scipy
+scikit-learn
+matplotlib
+Pillow

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# large local data (see README)
+data/
+cache/
+tehran_dem.tif
+tehran_bike.graphml
+tehran_drive.graphml
+*.osm
+*.pbf
